@@ -1,0 +1,7 @@
+Descripción del proyecto
+
+Este proyecto analiza el comportamiento de los usuarios y la efectividad de las inversiones en marketing de Showz, una empresa de venta de entradas para eventos. A partir de datos de visitas al sitio web, pedidos realizados y gastos de marketing, se estudia cómo los clientes interactúan con la plataforma, cuándo realizan su primera compra y cuánto valor generan a lo largo del tiempo.
+
+El análisis incluye métricas clave como el número de sesiones, la frecuencia de compra, el revenue promedio por pedido, el Lifetime Value (LTV), el Costo de Adquisición de Clientes (CAC) y el Retorno de la Inversión en Marketing (ROMI). Además, se evalúa el desempeño de las distintas fuentes de adquisición y dispositivos, así como su evolución a lo largo del tiempo.
+
+Con base en estos resultados, el proyecto ofrece recomendaciones orientadas a optimizar el presupuesto de marketing, priorizando las fuentes y plataformas más rentables y reduciendo la inversión en aquellas con bajo retorno, con el objetivo de maximizar la rentabilidad y mejorar la toma de decisiones del equipo de marketing.
